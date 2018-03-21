@@ -22,7 +22,7 @@ namespace WindowsFormsApplication1
             int kolichestvo = Convert.ToInt32(this.ColTarBox.Text);
             string poryadok = this.PorBox.Text;
             string Tarakan = this.ColTarBox.Text;
-
+            string Tarakan2 = this.ColTarBox.Text;
              
         }
     }
